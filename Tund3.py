@@ -252,6 +252,12 @@ elif gender == "ж":
 else:
     print("Некорректный пол.")
 
+
+
+
+
+
+#Kodutöö
     #Ulesanne 1
 
     number = input("Введите число: ")
